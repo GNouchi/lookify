@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+.delete {
+     background:none;
+     color:red;
+     border:none; 
+     padding:0;
+	 text-decoration: underline;
+	 cursor: pointer;
+}
+
+.dlink{
+	display: inline;
+}
+.searchbox{
+		margin-left:400px;	
+}
